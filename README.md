@@ -6,4 +6,14 @@ A LinkedList is a linear data structure where elements (nodes) are connected usi
 <br>
 <br>
 The code includes the following methods:
+- append()
+- prepend()
+- pop()
+- pop_first()
+- get_value()
+- set_value()
+- insert()
+- remove()
+- reverse()
+- print_list()
 
