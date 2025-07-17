@@ -1,5 +1,5 @@
 # Python-Data-Structures-And-Algorithms
-Data Structures and Algorithms implemented in Python.
+This repository covers Data Structures and Algorithms (DSA) implemented using Python. It includes key data structures like, linked lists, stacks, queues, trees, hash tables, graphs, heaps and algorithms such as sorting, searching, and recursion.
 
 ## Linked List:
 A LinkedList is a linear data structure where elements (nodes) are connected using pointers. Each node contains a value and a reference to the next node in the sequence.
